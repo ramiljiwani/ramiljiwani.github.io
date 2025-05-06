@@ -1,11 +1,10 @@
-import { ExternalLink } from "lucide-react"
 
 const projects = [
     {
         id: 1,
         title: "Automatic Water Gun",
         description: "Check out how I made an automatic water gun using CAD and electronics.",
-        image: "public/projects/watergun.png",
+        image: "/projects/watergun.png",
         tags: ["CAD", "Electronics", "Manufacturing"],
         demoURL: "https://orchid-shock-127.notion.site/Water-Gun-1049c82007f781c08db1df87000a0d7e",
     },
@@ -13,7 +12,7 @@ const projects = [
         id: 2,
         title: "Map My Mart",
         description: "Check out how I made a grocery store assistant for those with visual disabilities.",
-        image: "public/projects/mapmymart.png",
+        image: "/projects/mapmymart.png",
         tags: ["ReactJS", "ExpoGo", "Python", "Flask"],
         demoURL: "https://sites.google.com/view/ramil-jiwani-portfolio/p3",
     },
@@ -21,7 +20,7 @@ const projects = [
         id: 3,
         title: "Tourni",
         description: "Check out how I made an intramural hosting system for universities in 36 hours.",
-        image: "public/projects/tourni.png",
+        image: "/projects/tourni.png",
         tags: ["ReactJS", "NextJS", "PostgreSQL"],
         demoURL: "https://devpost.com/software/tourni",
     },

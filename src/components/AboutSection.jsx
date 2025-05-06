@@ -45,7 +45,7 @@ export const AboutSection = () => {
                     <div className="flex justify-center">
                       <div className="w-128 h-120 rounded-lg overflow-hidden border-4 border-primary shadow-lg">
                         <img
-                          src="public/pfp.jpeg"
+                          src="/pfp.jpeg"
                           alt="Your Name"
                           className="w-full h-full object-cover scale-110"
                        />
