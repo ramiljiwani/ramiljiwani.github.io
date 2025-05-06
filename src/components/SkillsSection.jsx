@@ -13,11 +13,11 @@ const skills = [
     {name: "Inventor", level: 90, category: "CAD"},
     {name: "OnShape", level: 85, category: "CAD"},
 
+    {name: "3D Printing", level: 95, category: "Mechanical"},
     {name: "GD&T", level: 85, category: "Mechanical"},
     {name: "FEA", level: 70, category: "Mechanical"},
     {name: "Lathe", level: 75, category: "Mechanical"},
     {name: "Soldering", level: 85, category: "Mechanical"},
-    {name: "3D Printing", level: 95, category: "Mechanical"},
     {name: "Laser Cutting", level: 85, category: "Mechanical"},
 ]
 
