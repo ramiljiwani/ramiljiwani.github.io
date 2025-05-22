@@ -5,7 +5,7 @@ export const Footer = () => {
     return(
         <footer className="py-12 px-4 bg-card relative bprder-t border-border mt-12 flex flex-auto justify-between items-center">
             <p className="text-muted-foreground text-sm"> 
-                &copy; {new Date().getFullYear()} ramiljiwani.ca, All rights reserved.
+                &copy; {new Date().getFullYear()} Ramil Jiwani, All rights reserved.
             </p>
             
             <a 
